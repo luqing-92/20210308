@@ -15,6 +15,7 @@
 int main(int argc, char *argv[])
 {
 	printf("luqing\n");	
+	printf("xubohan\n");	
 	
 	return 0;
 }
