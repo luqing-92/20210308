@@ -16,6 +16,7 @@ int main(int argc, char *argv[])
 {
 	printf("luqing\n");	
 	printf("xubohan\n");	
+	printf("branch develop added.\n");
 	
 	return 0;
 }
