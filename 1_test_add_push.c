@@ -17,6 +17,7 @@ int main(int argc, char *argv[])
 	printf("luqing\n");	
 	printf("xubohan\n");	
 	printf("branch develop added.\n");
+	printf("on github.com develop branch write test.\n");
 	
 	return 0;
 }
